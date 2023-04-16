@@ -8,8 +8,8 @@ This Tableau dashboard provides a comprehensive view of the global impact of COV
 
 ## Dataset
 
-using open-source data from the "Our World in Data".
-Data time:  From 01-Jan-2020 to 30-Apr-2021.
+using open-source data from the "Our World in Data".<br /> 
+Data time:  From 01-Jan-2020 to 30-Apr-2021.<br /> 
 Link to dataset: https://ourworldindata.org/covid-deaths
 
 ## Details
