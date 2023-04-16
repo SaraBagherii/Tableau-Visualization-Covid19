@@ -1,4 +1,4 @@
-![alt text]([https://img.shields.io/badge/Build-Passing-<COLOR>.svg)](https://github.com/vijayinyoutube/dashboard](https://github.com/SaraBagherii/Tableau-Visualization-Covid19))
+![alt text]([https://github.com/SaraBagherii/Tableau-Visualization-Covid19](https://github.com/SaraBagherii/Tableau-Visualization-Covid19))
 # Tableau-Visualization-Covid19
 
 This Tableau dashboard provides an interactive way to explore the global impact of COVID-19. The dashboard is divided into several sections that allow users to analyze and compare data on the number of cases, deaths, and infection rates across countries and continents.
