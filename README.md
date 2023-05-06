@@ -21,8 +21,25 @@ https://public.tableau.com/app/profile/sara.bagheri/viz/portfolio1_1662142663040
 
 **Death Percentage:** The current death percentage stands at 2.11%, indicating the proportion of reported cases that have resulted in fatalities.<br /> 
 
-## Result
+# Suggestions
 These numbers underscore the urgent need for continued vigilance, preventive measures, and global collaboration to mitigate the impact of COVID-19 and save lives.
+Here are some suggestions based on the result:
+
+* Increase Prevention Efforts: Emphasize the importance of preventive measures such as wearing masks, social distancing, and practicing good hygiene to reduce the spread of COVID-19 and potentially lower the death rate.
+
+* Prioritize High-Impact Areas: Focus resources, healthcare infrastructure, and interventions on regions or countries with higher death percentages to improve healthcare services and reduce the strain on medical facilities.
+
+* Accelerate Vaccination Campaigns: Prioritize and speed up COVID-19 vaccination campaigns globally, ensuring equitable access to vaccines. Vaccinations have proven effective in reducing severe illness and mortality rates.
+
+* Promote Public Awareness: Educate the public about the risks of COVID-19 and the importance of preventive measures and vaccinations through effective communication campaigns.
+
+* Support Healthcare Systems: Invest in strengthening healthcare infrastructure, including increasing hospital capacity, ventilators, and healthcare professionals, to provide adequate care for severe cases.
+
+* Foster Research and Development: Support research efforts to understand the factors influencing the death percentage and develop effective treatment protocols and strategies for managing severe cases.
+
+* Foster International Collaboration: Facilitate collaboration among countries and organizations to exchange best practices and successful strategies for reducing the death percentage and improving overall outcomes.
+
+
 
 ## Data Source
 Using open-source data from the "Our World in Data".<br /> 
