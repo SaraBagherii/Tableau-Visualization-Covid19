@@ -14,25 +14,20 @@ https://public.tableau.com/app/profile/sara.bagheri/viz/portfolio1_1662142663040
 
 ## Key Features
 
-**Overview:** A summary of global COVID-19 statistics, including the total number of cases, deaths, and recovered patients.
 
-**Geographical Heatmap:** A visual representation of the COVID-19 impact across countries and continents, using color-coded heatmaps to indicate the severity of cases or infection rates.
+**Total Cases:** The worldwide total number of COVID-19 cases has reached 150,574,977, indicating the scale of the pandemic's impact on a global level.<br /> 
 
-**Country Comparison:** An interactive chart allowing users to compare COVID-19 metrics (cases, deaths, and recovery rates) between different countries. Users can select specific countries or regions to display side-by-side comparisons.
+**Total Deaths:** Tragically, there have been 3,180,206 deaths reported due to COVID-19, highlighting the severe consequences of the virus on global public health.<br /> 
 
-**Time Series Analysis:** A line chart displaying the trend of COVID-19 cases and deaths over time. Users can select specific countries or regions to focus on and filter the time range to observe the progression of the pandemic.
+**Death Percentage:** The current death percentage stands at 2.11%, indicating the proportion of reported cases that have resulted in fatalities.<br /> 
 
-**Continent-wise Breakdown:** A bar chart showcasing the total number of cases, deaths, and recovery rates for each continent. Users can explore individual continents to gain a deeper understanding of regional differences.
+## Result
+These numbers underscore the urgent need for continued vigilance, preventive measures, and global collaboration to mitigate the impact of COVID-19 and save lives.
 
-**Top Affected Countries:** A table presenting the top countries with the highest number of cases, deaths, and infection rates. Users can sort the table based on specific metrics and drill down for more detailed information.
-
-**Demographics:** A pie chart illustrating the distribution of COVID-19 cases across different age groups or gender. This feature helps identify the most vulnerable populations.
-
-**Interactive Filters:** Users can apply filters based on specific criteria such as date range, region, or country to customize the dashboard and focus on areas of interest.
-
-**Data Source and Credits:** A section dedicated to acknowledging the sources of COVID-19 data used in the dashboard, ensuring transparency and credibility. using open-source data from the "Our World in Data".<br /> 
+## Data Source
+Using open-source data from the "Our World in Data".<br /> 
 Data time:  From 01-Jan-2020 to 30-Apr-2021.<br /> 
-Link to dataset: https://ourworldindata.org/covid-deaths
+**Link to dataset:** https://ourworldindata.org/covid-deaths
 
 
 
